@@ -1,5 +1,5 @@
 # Défi intégration
-Par équipe de 3 à 4, le but est de réaliser la page d'accueil du site d'un restaurant. Des wireframes sont fournis dans le dossier **/defi_restaurant**. 
+Par équipe de 3 à 4, le but est de réaliser la page d'accueil du site d'un restaurant. Des wireframes sont fournis dans le dossier https://github.com/SimplonCarcasonne/defi_restaurant . 
 
 # Objectifs pédagogiques
 * Développer un projet en équipe
