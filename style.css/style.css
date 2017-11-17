@@ -1,4 +1,12 @@
-body {
-	font-size: 18px;
-	margin: auto;
+<!--       ############   SECTION 2     ################          -->
+
+.whattoorder{
+	background-color: grey;
+    display: flex;	
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+.whattoorder img{
+	width: 5%;
 }
