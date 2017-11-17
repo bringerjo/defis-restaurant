@@ -19,7 +19,6 @@ body {
 				padding-left: 20px;
 }
 
-
 .hotmenu h2 {
 				color: black;
 				font-size: 20px;
@@ -31,6 +30,16 @@ body {
 				font-size: 18px;
 	
 }
+
+
+.hotmenu img {
+				background-color: grey;
+ 				width: 320px;
+ 				height: 200px;
+ 				
+}
+
+
 .hotmenu article { 
 				float: left;
 				width: 320px;
@@ -43,8 +52,8 @@ body {
 				clear:both;
 }
 
-
 /*       ############   FIN DE SECTION 1     ################          */
+<<<<<<< HEAD
 /*       ############   SECTION 2     ################         */
 
 .whattoorder{
@@ -60,3 +69,34 @@ body {
 	height: 50px;
 
 }
+=======
+
+
+/*       ############    FOOTER     ################          */
+
+footer { 
+				font-family: helvetica, sans-serif;
+				padding-left: 50px;
+				padding-top: 10px;
+				padding-bottom: 30px;
+				background-color: #555555;
+}
+footer p { 
+				color: white;
+				font-size: 10px;
+				text-transform: uppercase;
+}
+
+footer a { 
+				color: white;
+				text-decoration: none;
+}
+
+.whitespace {
+				height: 25px;
+				background-color: white;
+
+}
+
+/*       ############   FIN DE FOOTER     ################          */
+>>>>>>> 8635a1774128ce46434254d19b8a2d132e01d9f1
