@@ -59,13 +59,13 @@ body {
 footer { 
 				font-family: helvetica, sans-serif;
 				padding-left: 50px;
-				padding-top: 15px;
-				padding-bottom: 40px;
+				padding-top: 10px;
+				padding-bottom: 30px;
 				background-color: #555555;
 }
 footer p { 
 				color: white;
-				font-size: 14px;
+				font-size: 10px;
 				text-transform: uppercase;
 }
 
@@ -75,7 +75,7 @@ footer a {
 }
 
 .whitespace {
-				height: 50px;
+				height: 25px;
 				background-color: white;
 
 }
