@@ -53,13 +53,14 @@ body {
 }
 
 /*       ############   FIN DE SECTION 1     ################          */
-<<<<<<< HEAD
+
 /*       ############   SECTION 2     ################         */
 
 .whattoorder{
 	background-color: grey;
 	display: flex;
-
+    margin: auto;
+    justify-content: space-around;
 }
 
 .whattoorder img{
@@ -67,9 +68,23 @@ body {
 	display: flex;
 	width: 50px;
 	height: 50px;
+	flex-wrap: nowrap;
+}
+.whattoorder h4{
+	font-size: 15px;
+	text-transform: uppercase;
+	
 
 }
-=======
+.whattoorder h5{
+	font-size: 13px;
+}
+.whattoorder p{
+	font-size: 10px;
+}
+
+
+
 
 
 /*       ############    FOOTER     ################          */
@@ -99,4 +114,4 @@ footer a {
 }
 
 /*       ############   FIN DE FOOTER     ################          */
->>>>>>> 8635a1774128ce46434254d19b8a2d132e01d9f1
+
