@@ -18,7 +18,6 @@ body {
 				padding-left: 20px;
 }
 
-
 .hotmenu h2 {
 				color: black;
 				font-size: 20px;
@@ -30,6 +29,16 @@ body {
 				font-size: 18px;
 	
 }
+
+
+.hotmenu img {
+				background-color: grey;
+ 				width: 320px;
+ 				height: 200px;
+ 				
+}
+
+
 .hotmenu article { 
 				float: left;
 				width: 320px;
@@ -42,5 +51,33 @@ body {
 				clear:both;
 }
 
-
 /*       ############   FIN DE SECTION 1     ################          */
+
+
+/*       ############    FOOTER     ################          */
+
+footer { 
+				font-family: helvetica, sans-serif;
+				padding-left: 50px;
+				padding-top: 15px;
+				padding-bottom: 40px;
+				background-color: #555555;
+}
+footer p { 
+				color: white;
+				font-size: 14px;
+				text-transform: uppercase;
+}
+
+footer a { 
+				color: white;
+				text-decoration: none;
+}
+
+.whitespace {
+				height: 50px;
+				background-color: white;
+
+}
+
+/*       ############   FIN DE FOOTER     ################          */
